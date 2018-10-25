@@ -7,8 +7,5 @@ node {
         }    
     stage ('stage3') {
         sh 'echo "Faster !!"'
-        }    
-    stage ('stage4') {
-        sh 'echo "Stronger !!"'
         }
      }
